@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin:0;
+}
+
+p1 {
+    font-family: 'Merienda One', cursive;
+    font-size: 15px;
+}
+
+p2 {
+    font-size: 30px;
+    color: white;
+    text-align:right;
+}
+
+p3 {
+    font-size: 20px;
+    color: white;
+}
+
+p4 {
+    color: white;
+    text-indent: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #E4C553;
+    font-weight: bold;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: Black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
